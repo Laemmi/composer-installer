@@ -11,6 +11,6 @@ Installation
 ```
   "require":{
     "php": ">=5.3",
-    "laemmi/composer-installer": "dev-master"
+    "laemmi/composer-installer": "^1.0"
   }
 ```
